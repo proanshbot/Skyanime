@@ -6,7 +6,7 @@ const sections = [
     content: (
       <p>
         <strong>Data Collection</strong>: We collect minimal user data necessary
-        for the functioning of Anveshna., such as user
+        for the functioning of FIREANIME, such as user
         preferences.
         <br />
         <br />
@@ -15,7 +15,7 @@ const sections = [
         third parties except as required by law.
         <br />
         <br />
-        <strong>Cookies and Tracking</strong>: Anveshna. uses cookies and similar
+        <strong>Cookies and Tracking</strong>: FIREANIME uses cookies and similar
         tracking technologies to enhance the user experience like caching video
         timestamps and tracking watched content.
         <br />
@@ -37,8 +37,8 @@ const sections = [
         <br />
         <strong>Contact Us</strong>: If you have any questions about these
         terms, please contact us at{' '}
-        <a href='mailto:devxoshakya@gmail.com' className="font-bold text-indigo-600">
-          devxoshakya@gmail.com
+        <a href='mailto:ajjubhai0mmmdjdjd@gmail.com' className="font-bold text-indigo-600">
+          godxd69@gmail.com
         </a>
       </p>
     ),
@@ -47,12 +47,12 @@ const sections = [
     title: 'Terms of Service',
     content: (
       <p>
-        <strong>Acceptance of Terms</strong>: By using Anveshna., you agree to
+        <strong>Acceptance of Terms</strong>: By using FIREANIME, you agree to
         these Terms of Service and acknowledge that they affect your legal
         rights and obligations.
         <br />
         <br />
-        <strong>Content</strong>: Anveshna. does not host video content but embeds
+        <strong>Content</strong>: FIREANIME does not host video content but embeds
         videos from various third-party sources. We are not responsible for the
         content, quality, or the policies of these external sites.
         <br />
@@ -68,7 +68,7 @@ const sections = [
         <br />
         <br />
         <strong>Intellectual Property</strong>: The intellectual property rights
-        of the embedded videos remain with their respective owners. Anveshna.
+        of the embedded videos remain with their respective owners. FIREANIME
         respects these rights and does not claim ownership of this content.
         <br />
         <br />
