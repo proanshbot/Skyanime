@@ -70,7 +70,7 @@ const SocialIconsWrapper = styled.div`
 `;
 
 const FooterLogoImage = styled.img`
-  content: url('../images/icon.png');
+  content: url('../images/20240821_102755.png');
   max-width: 8rem;
   height: auto;
 `;
