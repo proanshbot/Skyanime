@@ -149,23 +149,23 @@ function NewFooter() {
             >
               Anveshna.
             </a>{' '}
-            | Website Made by <strong><a href='https://devxoshakya.xyz' rel='noopener noreferrer'>Dev Shakya</a></strong>
+            | Website Made by <strong><a href='#' rel='noopener noreferrer'>God</a></strong>
           </Text>
           <nav aria-label="Social Links">
             <SocialIconsWrapper>
               {[
                 {
-                  href: 'https://instagram.com/devxoshakya',
+                  href: 'https://instagram.com/',
                   Icon: FaInstagram,
                   label: 'Instagram',
                 },
                 {
-                  href: 'https://x.com/devxoshakya',
+                  href: 'https://x.com/',
                   Icon: FaTwitter,
                   label: 'Twitter',
                 },
                 {
-                  href: 'https://github.com/devxoshakya',
+                  href: 'https://github.com/GodxD69',
                   Icon: FaGithub,
                   label: 'Github',
                 },
