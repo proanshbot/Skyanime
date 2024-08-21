@@ -143,11 +143,11 @@ function NewFooter() {
           <Text as="p" $isSub={true}>
             &copy; {getYear()}{' '}
             <a
-              href="https://www.anveshna.xyz"
+              href="#"
               rel="noopener noreferrer"
               style={{ color: 'grey' }}
             >
-              Anveshna.
+              FIREANIME
             </a>{' '}
             | Website Made by <strong><a href='#' rel='noopener noreferrer'>God</a></strong>
           </Text>
