@@ -22,7 +22,7 @@ const Slideshow = () => {
   const data = [
     {
       id: 21519,
-      title: "Your Name.",
+      title: "Anime Movies",
       videoLink: "https://github.com/devxoshakya/anveshna/raw/main/src/videos/5.webm",
       type: "MOVIE",
       totalEpisodes: 1,
