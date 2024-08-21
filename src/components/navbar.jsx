@@ -208,12 +208,12 @@ export const Navbar = () => {
               </StyledButton>
             )}
             <StyledButton>
-              <a href='https://github.com/devxoshakya' target='_blank' rel='noreferrer'>
+              <a href='https://github.com/GodxD69' target='_blank' rel='noreferrer'>
               <FaGithub/>
               </a>
             </StyledButton>
             <StyledButton>
-              <a href='https://twitter.com/devxoshakya' target='_blank' rel='noreferrer'>
+              <a href='https://twitter.com' target='_blank' rel='noreferrer'>
               <FaXTwitter />
               </a>
             </StyledButton>
