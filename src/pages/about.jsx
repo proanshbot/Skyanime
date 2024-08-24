@@ -15,7 +15,7 @@ return (
     <div className="max-w-[50rem] mx-auto px-4 py-8 text-base leading-6 text-white">
         <div className="mb-4">
         <h1 className="p-2 font-bold text-3xl">About</h1>
-        <h3 className="font-bold text-lg mt-2 p-2">What's Anveshna.?</h3>
+        <h3 className="font-bold text-lg mt-2 p-2">What's FIREANIME?</h3>
         <p className="mt-2 p-2">
             FIREANIME is an anime streaming site where you can watch anime online
             in HD quality with English subtitles or dubbing. You can also
