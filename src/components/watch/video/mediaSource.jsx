@@ -198,7 +198,7 @@ const MediaSource = ({
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FaDownload />
+              <FaDownload />Download Episode
             </DownloadLink>
             <br />
             <br />
