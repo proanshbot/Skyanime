@@ -246,7 +246,7 @@ const MediaSource = ({
                     }
                     onClick={() => handleButtonClick('vidstreaming', 'sub')}
                   >
-                    Vidstream
+                    Server1
                   </Button>
                 </ButtonWrapper>
               </TableCell>
@@ -260,7 +260,7 @@ const MediaSource = ({
                     }
                     onClick={() => handleButtonClick('gogo', 'sub')}
                   >
-                    Gogo
+                    Server2
                   </Button>
                 </ButtonWrapper>
               </TableCell>
@@ -291,7 +291,7 @@ const MediaSource = ({
                     }
                     onClick={() => handleButtonClick('vidstreaming', 'dub')}
                   >
-                    Vidstream
+                    Server1
                   </Button>
                 </ButtonWrapper>
               </TableCell>
@@ -305,7 +305,7 @@ const MediaSource = ({
                     }
                     onClick={() => handleButtonClick('gogo', 'dub')}
                   >
-                    Gogo
+                    Server2
                   </Button>
                 </ButtonWrapper>
               </TableCell>
