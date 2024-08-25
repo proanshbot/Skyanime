@@ -180,7 +180,7 @@ export const Navbar = () => {
       <NavbarWrapper>
         <TopContainer>
           <LogoImg title="FIREANIME" to="/home" onClick={() => window.scrollTo(0, 0)}>
-            <img src="https://github.com/GodxD69/anveshna/blob/main/src/images/icon.png" alt="FIREANIME" className='scale-125 ml-4'/>
+            <img src="https://raw.githubusercontent.com/GodxD69/anveshna/main/src/images/icon.png" alt="FIREANIME" className='scale-125 ml-4'/>
           </LogoImg>
 
           {!isMobileView && (
