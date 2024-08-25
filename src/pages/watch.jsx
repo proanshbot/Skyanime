@@ -487,14 +487,14 @@ useEffect(() => {
 useEffect(() => {
   if (animeInfo && animeInfo.title) {
       document.title =
-          'Anveshna. | ' +
+          'FireAnime | ' +
               (animeInfo.title.english ||
                   animeInfo.title.romaji ||
                   animeInfo.title.romaji ||
                   '');
   }
   else {
-      document.title = 'Anveshna.';
+      document.title = 'FireAnime';
   }
 }, [animeInfo]);
 
