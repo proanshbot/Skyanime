@@ -180,7 +180,7 @@ export const Navbar = () => {
       <NavbarWrapper>
         <TopContainer>
           <LogoImg title="FIREANIME" to="/home" onClick={() => window.scrollTo(0, 0)}>
-            <img src="https://cdn.discordapp.com/attachments/1089801309298896897/1275680407567863830/20240821_102755.png?ex=66c6c576&is=66c573f6&hm=4da1a20942936c623f28a764f7f6ae24a4c1b18fa498835efe3a8d054d62e2bc&" alt="FIREANIME" className='scale-125 ml-4'/>
+            <img src="https://github.com/GodxD69/anveshna/blob/main/src/images/icon.png" alt="FIREANIME" className='scale-125 ml-4'/>
           </LogoImg>
 
           {!isMobileView && (
