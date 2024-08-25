@@ -22,7 +22,7 @@ export const GoogleGeminiEffect = ({
   return (
     <div className={cn("sticky top-40", className)}>
       <p className="text-[45px] md:text-7xl font-normal pt-16 text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-100 to-neutral-300">
-        {`Anveshna.`}
+        {`FIREANIME`}
       </p>
       <p className="text-[20px] md:text-xl font-normal text-center text-neutral-400 mt-4 max-w-lg mx-auto">
         {description ||
