@@ -156,17 +156,17 @@ function NewFooter() {
               {[
                 {
                   href: 'https://instagram.com/',
-                  Icon: faInstagram,
+                  Icon: FaInstagram,
                   label: 'Instagram',
                 },
                 {
                   href: 'https://x.com/',
-                  Icon: faTwitter,
+                  Icon: FaTwitter,
                   label: 'Twitter',
                 },
                 {
                   href: 'https://github.com/GodxD69',
-                  Icon: faGithub,
+                  Icon: FaGithub,
                   label: 'Github',
                 },
               ].map(({ href, Icon, label }) => (
