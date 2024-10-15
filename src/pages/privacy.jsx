@@ -38,7 +38,7 @@ const sections = [
         <strong>Contact Us</strong>: If you have any questions about these
         terms, please contact us at{' '}
         <a href='mailto:ajjubhai0mmmdjdjd@gmail.com' className="font-bold text-indigo-600">
-          godxd69@gmail.com
+          proanshpp@gmail.com
         </a>
       </p>
     ),
@@ -47,12 +47,12 @@ const sections = [
     title: 'Terms of Service',
     content: (
       <p>
-        <strong>Acceptance of Terms</strong>: By using FIREANIME, you agree to
+        <strong>Acceptance of Terms</strong>: By using SKYANIME, you agree to
         these Terms of Service and acknowledge that they affect your legal
         rights and obligations.
         <br />
         <br />
-        <strong>Content</strong>: FIREANIME does not host video content but embeds
+        <strong>Content</strong>: SKYANIME does not host video content but embeds
         videos from various third-party sources. We are not responsible for the
         content, quality, or the policies of these external sites.
         <br />
