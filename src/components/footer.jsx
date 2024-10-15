@@ -147,26 +147,26 @@ function NewFooter() {
               rel="noopener noreferrer"
               style={{ color: 'grey' }}
             >
-              FIREANIME
+              SKYANIME
             </a>{' '}
-            | Website Made by <strong><a href='#' rel='noopener noreferrer'>God</a></strong>
+            | Website Made by <strong><a href='#' rel='noopener noreferrer'>ANSH</a></strong>
           </Text>
           <nav aria-label="Social Links">
             <SocialIconsWrapper>
               {[
                 {
                   href: 'https://instagram.com/',
-                  Icon: FaInstagram,
+                  Icon: SAInstagram,
                   label: 'Instagram',
                 },
                 {
                   href: 'https://x.com/',
-                  Icon: FaTwitter,
+                  Icon: SATwitter,
                   label: 'Twitter',
                 },
                 {
                   href: 'https://github.com/GodxD69',
-                  Icon: FaGithub,
+                  Icon: SAGithub,
                   label: 'Github',
                 },
               ].map(({ href, Icon, label }) => (
