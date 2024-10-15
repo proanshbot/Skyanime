@@ -15,15 +15,15 @@ return (
     <div className="max-w-[50rem] mx-auto px-4 py-8 text-base leading-6 text-white">
         <div className="mb-4">
         <h1 className="p-2 font-bold text-3xl">About</h1>
-        <h3 className="font-bold text-lg mt-2 p-2">What's FIREANIME?</h3>
+        <h3 className="font-bold text-lg mt-2 p-2">What's SKYANIME?</h3>
         <p className="mt-2 p-2">
-            FIREANIME is an anime streaming site where you can watch anime online
+            SKYANIME is an anime streaming site where you can watch anime online
             in HD quality with English subtitles or dubbing. You can also
             download any anime you want without registration.
           </p>
         </div>
         <div className="mb-4 p-2">
-          <h3 className="font-bold text-lg">Is FIREANIME safe?</h3>
+          <h3 className="font-bold text-lg">Is SKYANIME safe?</h3>
           <p className="mt-2">
             Yes. We started this site to improve UX and are committed to
             keeping our users safe. We encourage all our users to notify us if
@@ -31,7 +31,7 @@ return (
         </p>
         </div>
         <div >
-          <h3 className="font-bold text-lg p-2">Why FIREANIME ?</h3>
+          <h3 className="font-bold text-lg p-2">Why SKYANIME ?</h3>
           <p className="mt-2 p-2">
             <strong>Content Library:</strong> We have a vast collection of both
             old and new anime, making us one of the largest anime libraries on
@@ -57,7 +57,7 @@ return (
             <span className="font-bold text-custom-color">simplicity and ease of use</span>.
           </p>
           <p className="mt-2 p-2">
-            <strong>Device Compatibility:</strong> FIREANIME works seamlessly on both{' '}
+            <strong>Device Compatibility:</strong> SKYANIME works seamlessly on both{' '}
             <span className="font-bold text-custom-color">desktop and mobile devices</span>.
           </p>
           <p className="mt-2 p-2">
