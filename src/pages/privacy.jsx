@@ -6,7 +6,7 @@ const sections = [
     content: (
       <p>
         <strong>Data Collection</strong>: We collect minimal user data necessary
-        for the functioning of FIREANIME, such as user
+        for the functioning of SKYANIME, such as user
         preferences.
         <br />
         <br />
@@ -15,7 +15,7 @@ const sections = [
         third parties except as required by law.
         <br />
         <br />
-        <strong>Cookies and Tracking</strong>: FIREANIME uses cookies and similar
+        <strong>Cookies and Tracking</strong>: SKYANIME uses cookies and similar
         tracking technologies to enhance the user experience like caching video
         timestamps and tracking watched content.
         <br />
