@@ -179,8 +179,8 @@ export const Navbar = () => {
     <StyledNavbar>
       <NavbarWrapper>
         <TopContainer>
-          <LogoImg title="FIREANIME" to="/home" onClick={() => window.scrollTo(0, 0)}>
-            <img src="https://raw.githubusercontent.com/GodxD69/anveshna/main/src/images/icon.png" alt="FIREANIME" className='scale-125 ml-4'/>
+          <LogoImg title="SKYANIME" to="/home" onClick={() => window.scrollTo(0, 0)}>
+            <img src="https://github.com/proanshbot/Skyanime/blob/main/src/images/icon.png" alt="SKYANIME" className='scale-125 ml-4'/>
           </LogoImg>
 
           {!isMobileView && (
@@ -208,12 +208,12 @@ export const Navbar = () => {
               </StyledButton>
             )}
             <StyledButton>
-              <a href='https://github.com/GodxD69' target='_blank' rel='noreferrer'>
+              <a href='no longer available' target='_blank' rel='noreferrer'>
               <FaGithub/>
               </a>
             </StyledButton>
             <StyledButton>
-              <a href='https://twitter.com' target='_blank' rel='noreferrer'>
+              <a href='soon' target='_blank' rel='noreferrer'>
               <FaXTwitter />
               </a>
             </StyledButton>
