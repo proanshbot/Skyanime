@@ -149,23 +149,23 @@ function NewFooter() {
             >
               SKYANIME
             </a>{' '}
-            | Website Made by <strong><a href='#' rel='noopener noreferrer'>ANSH</a></strong>
+            | Website Made by <strong><a href='#' rel='noopener noreferrer'>RISHAB</a></strong>
           </Text>
           <nav aria-label="Social Links">
             <SocialIconsWrapper>
               {[
                 {
-                  href: 'https://instagram.com/',
+                  href: 'https://www.instagram.com/rishab_morningstar/profilecard/?igsh=MWtpNHA1ZWxwcmRmaA==',
                   Icon: FaInstagram,
                   label: 'Instagram',
                 },
                 {
-                  href: 'https://x.com/',
-                  Icon: FaTwitter,
-                  label: 'Twitter',
+                  href: 'https://youtube.com/@eternalmelodymagic?si=rLBFFHGQ2cVBtxoq',
+                  Icon: FaYoutube,
+                  label: 'YouTube',
                 },
                 {
-                  href: 'https://github.com/GodxD69',
+                  href: 'SOON',
                   Icon: FaGithub,
                   label: 'Github',
                 },
