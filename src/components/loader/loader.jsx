@@ -6,7 +6,7 @@ const Loader = () => {
   return (
     <div className="loader-container z-9999">
       <img src={logo} alt="Logo" className="loader-image" />
-      <p className="loader-text ">Powered by <span className='font-bold'>ANSH</span></p>
+      <p className="loader-text ">Powered by <span className='font-bold'>SKYNODE</span></p>
       <div className="loader-bar">
         <div className="loader-progress"></div>
       </div>
